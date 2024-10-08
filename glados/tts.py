@@ -1,3 +1,5 @@
+# CREDIT: https://github.com/dnhkng/GlaDOS
+
 from dataclasses import dataclass
 import re
 import subprocess
